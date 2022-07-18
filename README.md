@@ -1,6 +1,7 @@
 [![DeepSource](https://deepsource.io/gh/KOSASIH/Ninos_world.svg/?label=active+issues&show_trend=true&token=Jx2kEZwkgXqs2VEYA1H6H6NK)](https://deepsource.io/gh/KOSASIH/Ninos_world/?ref=repository-badge)
 [![CI](https://github.com/KOSASIH/Ninos_world/actions/workflows/blank.yml/badge.svg)](https://github.com/KOSASIH/Ninos_world/actions/workflows/blank.yml)
 [![Scorecards supply-chain security](https://github.com/KOSASIH/Ninos_world/actions/workflows/scorecards.yml/badge.svg)](https://github.com/KOSASIH/Ninos_world/actions/workflows/scorecards.yml)
+[![StackHawk](https://github.com/KOSASIH/Ninos_world/actions/workflows/stackhawk.yml/badge.svg)](https://github.com/KOSASIH/Ninos_world/actions/workflows/stackhawk.yml)
 
 # Ninos_world
 
