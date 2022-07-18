@@ -1,3 +1,5 @@
+[![DeepSource](https://deepsource.io/gh/KOSASIH/Ninos_world.svg/?label=active+issues&show_trend=true&token=Jx2kEZwkgXqs2VEYA1H6H6NK)](https://deepsource.io/gh/KOSASIH/Ninos_world/?ref=repository-badge)
+
 # Ninos_world
 Eth_Ninos global kid care
 
